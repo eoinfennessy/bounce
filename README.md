@@ -1,5 +1,7 @@
 # Bounce!
 
+[![Bounce GIF](https://user-images.githubusercontent.com/85010533/174479220-a30b978a-e0b9-4db2-9c0a-bf78ea32d3b3.gif)](https://youtu.be/CXUxbl1j1H8)
+
 **Bounce!** is a 2d physics platformer created in [Processing](https://processing.org/) where the player manouvres a bouncy ball through a series of levels
 containing obstacles, power-ups and enemies.
 
